@@ -648,7 +648,7 @@ call-to-action .button {
     background-position: 30% 30%;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
-   background-attachment: fixed;
+
 
    position: relative;
    min-height: 100px;
