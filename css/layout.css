@@ -219,6 +219,7 @@ ul#nav li.current a { color: #F06000; }
    width: 58.33333%;
    padding-top: 6px;
 }
+#about .header-col { padding-top: 9px; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
@@ -641,14 +642,16 @@ call-to-action .button {
 /* g. Testimonials
 /* ------------------------------------------------------------------ */
 
+
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat;
+    background-position: 30% 30%;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
 
    position: relative;
-   min-height: 200px;
+   min-height: 100px;
    width: 100%;
    overflow: hidden;
 }
