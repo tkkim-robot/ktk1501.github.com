@@ -302,7 +302,7 @@ ul#nav li.current a { color: #F06000; }
 	text-align: left;
 }
 .bars .skills {
-  	margin-top: 36px;
+  	margin-top: 13px;
    list-style: none;
 }
 .bars li {
@@ -335,87 +335,128 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+.AC {
+  	width: 98%;
+  	-moz-animation: AC 2s ease;
+  	-webkit-animation: AC 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
-.html5 {
+.ES {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: ES 2s ease;
+  	-webkit-animation: ES 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.CV {
+  	width: 85%;
+  	-moz-animation: CV 2s ease;
+  	-webkit-animation: CV 2s ease;
+}
+.AI {
+  	width: 60%;
+  	-moz-animation: AI 2s ease;
+  	-webkit-animation: AI 2s ease;
+}
+.C {
+  	width: 90%;
+  	-moz-animation: C 2s ease;
+  	-webkit-animation: C 2s ease;
+}
+.Python {
+  	width: 90%;
+  	-moz-animation: Python 2s ease;
+  	-webkit-animation: Python 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
+.Labview {
+  	width: 60%;
+  	-moz-animation: Labview 2s ease;
+  	-webkit-animation: Labview 2s ease;
 }
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
+
+.Matlab {
+  	width: 40%;
+  	-moz-animation: Matlab 2s ease;
+  	-webkit-animation: Matlab 2s ease;
 }
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+
+.Html {
+  	width: 30%;
+  	-moz-animation: Html 2s ease;
+  	-webkit-animation: Html 2s ease;
 }
-@-moz-keyframes css {
+
+@-moz-keyframes AC {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 98%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes ES {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes CV {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 85%;  }
 }
-
-@-webkit-keyframes photoshop {
+@-moz-keyframes AI {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes css {
+@-moz-keyframes C {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-moz-keyframes Python {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes Labview {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-moz-keyframes Matlab {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
+}
+@-moz-keyframes Html {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+
+@-webkit-keyframes AC {
+  0%   { width: 0px;  }
+  100% { width: 98%;  }
+}
+@-webkit-keyframes ES {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes CV {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 85%;  }
 }
-
+@-webkit-keyframes AI {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-webkit-keyframes C {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes Python {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes Labview {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes Matlab {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
+}
+@-webkit-keyframes Html {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
