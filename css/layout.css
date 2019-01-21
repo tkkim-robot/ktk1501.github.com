@@ -367,7 +367,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .Labview {
-  	width: 60%;
+  	width: 65%;
   	-moz-animation: Labview 2s ease;
   	-webkit-animation: Labview 2s ease;
 }
