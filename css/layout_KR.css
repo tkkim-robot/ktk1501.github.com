@@ -208,6 +208,11 @@ ul#nav li.current a { color: #F06000; }
    line-height: 30px;
    color: #7A7A7A;
 }
+#about p span{
+  font: 'Nanum Gothic', sans-serif;
+   line-height: 30px;
+   color: #7A7A7A;
+}
 #about .profile-pic {
    position: relative;
    width: 120px;
@@ -259,7 +264,8 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+   font: 25px/30px 'Nanum Gothic', sans-serif;
+   font-weight: 800;
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -277,10 +283,10 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
-   margin-bottom: 18px;
-   margin-top: 9px;
+  font: 16px/24px 'librebaskerville-italic', serif;
+  color: #6E7881;
+  margin-bottom: 18px;
+  margin-top: 9px;
 }
 #resume .info_kr {
    font: 16px/24px 'Nanum Gothic', serif;
