@@ -343,25 +343,25 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.AC {
-  	width: 98%;
-  	-moz-animation: AC 2s ease;
-  	-webkit-animation: AC 2s ease;
-}
-.ES {
-  	width: 80%;
-  	-moz-animation: ES 2s ease;
-  	-webkit-animation: ES 2s ease;
+.RS {
+  	width: 95%;
+  	-moz-animation: RS 2s ease;
+  	-webkit-animation: RS 2s ease;
 }
 .CV {
   	width: 85%;
   	-moz-animation: CV 2s ease;
   	-webkit-animation: CV 2s ease;
 }
-.AI {
-  	width: 60%;
-  	-moz-animation: AI 2s ease;
-  	-webkit-animation: AI 2s ease;
+.SC {
+  	width: 90%;
+  	-moz-animation: SC 2s ease;
+  	-webkit-animation: SC 2s ease;
+}
+.ML {
+  	width: 65%;
+  	-moz-animation: ML 2s ease;
+  	-webkit-animation: ML 2s ease;
 }
 .C {
   	width: 90%;
@@ -369,19 +369,19 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: C 2s ease;
 }
 .Python {
-  	width: 90%;
+  	width: 95%;
   	-moz-animation: Python 2s ease;
   	-webkit-animation: Python 2s ease;
 }
 
 .Labview {
-  	width: 65%;
+  	width: 45%;
   	-moz-animation: Labview 2s ease;
   	-webkit-animation: Labview 2s ease;
 }
 
 .Matlab {
-  	width: 40%;
+  	width: 30%;
   	-moz-animation: Matlab 2s ease;
   	-webkit-animation: Matlab 2s ease;
 }
@@ -392,21 +392,21 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: Html 2s ease;
 }
 
-@-moz-keyframes AC {
+@-moz-keyframes RS {
   0%   { width: 0px;  }
-  100% { width: 98%;  }
-}
-@-moz-keyframes ES {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 95%;  }
 }
 @-moz-keyframes CV {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-moz-keyframes AI {
+@-moz-keyframes SC {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes ML {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes C {
   0%   { width: 0px;  }
@@ -414,36 +414,36 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes Python {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 95%;  }
 }
 @-moz-keyframes Labview {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 45%;  }
 }
 @-moz-keyframes Matlab {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 30%;  }
 }
 @-moz-keyframes Html {
   0%   { width: 0px;  }
   100% { width: 30%;  }
 }
 
-@-webkit-keyframes AC {
+@-webkit-keyframes RS {
   0%   { width: 0px;  }
-  100% { width: 98%;  }
-}
-@-webkit-keyframes ES {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 95%;  }
 }
 @-webkit-keyframes CV {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
-@-webkit-keyframes AI {
+@-webkit-keyframes SC {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes ML {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes C {
   0%   { width: 0px;  }
@@ -451,15 +451,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes Python {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 95%;  }
 }
 @-webkit-keyframes Labview {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 45%;  }
 }
 @-webkit-keyframes Matlab {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 30%;  }
 }
 @-webkit-keyframes Html {
   0%   { width: 0px;  }
