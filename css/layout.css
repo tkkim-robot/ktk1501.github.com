@@ -265,13 +265,13 @@ ul#nav li.current a { color: #F06000; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work, .skill {
+.education, .publications, .skill, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
 
-#resume .publications {
+#resume .awards {
   margin-bottom: 48px;
   padding-bottom: 0px;
 }
@@ -380,10 +380,10 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: Labview 2s ease;
 }
 
-.Matlab {
-  	width: 30%;
-  	-moz-animation: Matlab 2s ease;
-  	-webkit-animation: Matlab 2s ease;
+.ROS {
+  	width: 70%;
+  	-moz-animation: ROS 2s ease;
+  	-webkit-animation: ROS 2s ease;
 }
 
 .Html {
@@ -420,9 +420,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 45%;  }
 }
-@-moz-keyframes Matlab {
+@-moz-keyframes ROS {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes Html {
   0%   { width: 0px;  }
@@ -457,9 +457,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 45%;  }
 }
-@-webkit-keyframes Matlab {
+@-webkit-keyframes ROS {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes Html {
   0%   { width: 0px;  }
