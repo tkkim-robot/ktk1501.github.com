@@ -360,7 +360,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: CV 2s ease;
 }
 .SC {
-  	width: 90%;
+  	width: 85%;
   	-moz-animation: SC 2s ease;
   	-webkit-animation: SC 2s ease;
 }
@@ -387,7 +387,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .ROS {
-  	width: 70%;
+  	width: 95%;
   	-moz-animation: ROS 2s ease;
   	-webkit-animation: ROS 2s ease;
 }
@@ -408,7 +408,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes SC {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes ML {
   0%   { width: 0px;  }
@@ -428,7 +428,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes ROS {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 95%;  }
 }
 @-moz-keyframes Html {
   0%   { width: 0px;  }
@@ -445,7 +445,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes SC {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes ML {
   0%   { width: 0px;  }
@@ -465,7 +465,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes ROS {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 95%;  }
 }
 @-webkit-keyframes Html {
   0%   { width: 0px;  }
